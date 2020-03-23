@@ -1,0 +1,8 @@
+{
+  "pickup_location": "MAD",
+  "pickup_date": "2020-04-03T12:00",
+  "drop_off_location": "MAD",
+  "drop_off_date": "2020-04-04T12:00",
+  "contract_number": ["6020160"],
+  "acriss_code": "PCAR"
+}
